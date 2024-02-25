@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGptExample", "raylibcs\ChatGptExample\ChatGptExample.csproj", "{8566A1B7-9C04-4ECB-A1AD-5DF7EE3247E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameChatGptExample", "monogame\MonoGameChatGptExample\MonoGameChatGptExample.csproj", "{73754724-C3D1-4CCC-970C-277F92E1063D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{8566A1B7-9C04-4ECB-A1AD-5DF7EE3247E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8566A1B7-9C04-4ECB-A1AD-5DF7EE3247E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8566A1B7-9C04-4ECB-A1AD-5DF7EE3247E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73754724-C3D1-4CCC-970C-277F92E1063D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73754724-C3D1-4CCC-970C-277F92E1063D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73754724-C3D1-4CCC-970C-277F92E1063D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73754724-C3D1-4CCC-970C-277F92E1063D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
