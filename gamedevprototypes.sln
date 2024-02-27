@@ -1,10 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGptExample", "raylibcs\ChatGptExample\ChatGptExample.csproj", "{8566A1B7-9C04-4ECB-A1AD-5DF7EE3247E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGptExample", "RaylibCS\ChatGptExample\ChatGptExample.csproj", "{8566A1B7-9C04-4ECB-A1AD-5DF7EE3247E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameChatGptExample", "monogame\MonoGameChatGptExample\MonoGameChatGptExample.csproj", "{73754724-C3D1-4CCC-970C-277F92E1063D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameChatGptExample", "MonoGame\MonoGameChatGptExample\MonoGameChatGptExample.csproj", "{73754724-C3D1-4CCC-970C-277F92E1063D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfmlChatGptExample", "sfml\SfmlChatGptExample\SfmlChatGptExample.csproj", "{CC3166B6-7964-422D-9B21-0773D6B4E184}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfmlChatGptExample", "SFML\SfmlChatGptExample\SfmlChatGptExample.csproj", "{CC3166B6-7964-422D-9B21-0773D6B4E184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdlGameChatGptExample", "SDL\SdlGameChatGptExample\SdlGameChatGptExample.csproj", "{896AAA93-4375-4696-8AF8-6D02733DA452}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +26,9 @@ Global
 		{CC3166B6-7964-422D-9B21-0773D6B4E184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC3166B6-7964-422D-9B21-0773D6B4E184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC3166B6-7964-422D-9B21-0773D6B4E184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896AAA93-4375-4696-8AF8-6D02733DA452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896AAA93-4375-4696-8AF8-6D02733DA452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896AAA93-4375-4696-8AF8-6D02733DA452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896AAA93-4375-4696-8AF8-6D02733DA452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
